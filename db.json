@@ -1,0 +1,195 @@
+{
+    "persons": [
+        {
+            "name": "Frank",
+            "name_plural": "Frank's",
+            "slug": "frank",
+            "position": "Account Manager",
+            "icon": "",
+            "image": "https://rosielee.co.uk/wp-content/uploads/people-alberto-720x480.jpg",
+            "bio": "Ut cum rebum deleniti singulis. Inermis verterem omittantur te vis. Tacimates gloriatur in vim. Erat labores omittantur te vim, cu paulo torquatos pri.",
+            "instagram_username": "puravida.nl",
+            "spots": [
+                "first_spot",
+                "second_spot"
+            ]
+        },
+        {
+            "name": "Dave",
+            "name_plural": "Dave's",
+            "slug": "dave",
+            "position": "Designer",
+            "icon": "",
+            "image": "https://rosielee.co.uk/wp-content/uploads/people-alberto-720x480.jpg",
+            "bio": "Ut cum rebum deleniti singulis. Inermis verterem omittantur te vis. Tacimates gloriatur in vim. Erat labores omittantur te vim, cu paulo torquatos pri.",
+            "instagram_username": "puravida.nl",
+            "spots": [
+                "third_spot, forth_spot, fifth_spot"
+            ]
+        },
+        {
+            "name": "Alberto",
+            "name_plural": "Alberto's",
+            "slug": "alberto",
+            "position": "Account Manager",
+            "icon": "",
+            "image": "https://rosielee.co.uk/wp-content/uploads/people-alberto-720x480.jpg",
+            "bio": "Ut cum rebum deleniti singulis. Inermis verterem omittantur te vis. Tacimates gloriatur in vim. Erat labores omittantur te vim, cu paulo torquatos pri.",
+            "instagram_username": "puravida.nl",
+            "spots": [
+                "sixth_spot, seventh_spot"
+            ]
+        }
+    ],
+    "spots": [
+        {
+            "name": "First Spot",
+            "slug": "first_spot",
+            "position": 1,
+            "tags": [
+                "restaurant",
+                "bar",
+                "westerpark"
+            ],
+            "short_description": "Pri id elit latine corpora, duo noster oblique splendide ea, mel ne dolorem nusquam.",
+            "write_up": "Utinam omittam quaestio no mea. Dicant petentium quo ea, ad quo solum assum. Noster utamur quo eu. Ut reque fugit mnesarchum pro, brute consequuntur at duo, vis et epicurei similique. In adipisci democritum sed, ea nisl quot labores usu.",
+            "website_url": "https://rosielee.co.uk",
+            "map_longitude": "50.969522",
+            "map_latitude": "2.456735",
+            "socials": [
+                {
+                    "instagram": "https://www.instagram.com/rosie.lees/",
+                    "facebook": "https://www.facebook.com/RosieLeeCreative",
+                    "twitter": "https://twitter.com/Rosie_Lees"
+                }
+            ]
+        },
+        {
+            "name": "Spot 2",
+            "slug": "second_spot",
+            "position": 2,
+            "tags": [
+                "market",
+                "shopping",
+                "westerpark"
+            ],
+            "short_description": "Pri id elit latine corpora, duo noster oblique splendide ea, mel ne dolorem nusquam.",
+            "write_up": "Utinam omittam quaestio no mea. Dicant petentium quo ea, ad quo solum assum. Noster utamur quo eu. Ut reque fugit mnesarchum pro, brute consequuntur at duo, vis et epicurei similique. In adipisci democritum sed, ea nisl quot labores usu.",
+            "website_url": "https://rosielee.co.uk",
+            "map_longitude": "50.969522",
+            "map_latitude": "2.456735",
+            "socials": [
+                {
+                    "instagram": "https://www.instagram.com/rosie.lees/",
+                    "facebook": "https://www.facebook.com/RosieLeeCreative",
+                    "twitter": "https://twitter.com/Rosie_Lees"
+                }
+            ]
+        },
+        {
+            "name": "Spot 3",
+            "slug": "third_spot",
+            "position": 3,
+            "tags": [
+                "restaurant",
+                "jordaan"
+            ],
+            "short_description": "Pri id elit latine corpora, duo noster oblique splendide ea, mel ne dolorem nusquam.",
+            "write_up": "Utinam omittam quaestio no mea. Dicant petentium quo ea, ad quo solum assum. Noster utamur quo eu. Ut reque fugit mnesarchum pro, brute consequuntur at duo, vis et epicurei similique. In adipisci democritum sed, ea nisl quot labores usu.",
+            "website_url": "https://rosielee.co.uk",
+            "map_longitude": "50.969522",
+            "map_latitude": "2.456735",
+            "socials": [
+                {
+                    "instagram": "https://www.instagram.com/rosie.lees/",
+                    "facebook": "https://www.facebook.com/RosieLeeCreative",
+                    "twitter": "https://twitter.com/Rosie_Lees"
+                }
+            ]
+        },
+        {
+            "name": "Spot 4",
+            "slug": "forth_spot",
+            "position": 4,
+            "tags": [
+                "cafe",
+                "jordaan"
+            ],
+            "short_description": "Pri id elit latine corpora, duo noster oblique splendide ea, mel ne dolorem nusquam.",
+            "write_up": "Utinam omittam quaestio no mea. Dicant petentium quo ea, ad quo solum assum. Noster utamur quo eu. Ut reque fugit mnesarchum pro, brute consequuntur at duo, vis et epicurei similique. In adipisci democritum sed, ea nisl quot labores usu.",
+            "website_url": "https://rosielee.co.uk",
+            "map_longitude": "50.969522",
+            "map_latitude": "2.456735",
+            "socials": [
+                {
+                    "instagram": "https://www.instagram.com/rosie.lees/",
+                    "facebook": "https://www.facebook.com/RosieLeeCreative",
+                    "twitter": "https://twitter.com/Rosie_Lees"
+                }
+            ]
+        },
+        {
+            "name": "Spot 5",
+            "slug": "fifth_spot",
+            "position": 5,
+            "tags": [
+                "shopping",
+                "jordaan"
+            ],
+            "short_description": "Pri id elit latine corpora, duo noster oblique splendide ea, mel ne dolorem nusquam.",
+            "write_up": "Utinam omittam quaestio no mea. Dicant petentium quo ea, ad quo solum assum. Noster utamur quo eu. Ut reque fugit mnesarchum pro, brute consequuntur at duo, vis et epicurei similique. In adipisci democritum sed, ea nisl quot labores usu.",
+            "website_url": "https://rosielee.co.uk",
+            "map_longitude": "50.969522",
+            "map_latitude": "2.456735",
+            "socials": [
+                {
+                    "instagram": "https://www.instagram.com/rosie.lees/",
+                    "facebook": "https://www.facebook.com/RosieLeeCreative",
+                    "twitter": "https://twitter.com/Rosie_Lees"
+                }
+            ]
+        },
+        {
+            "name": "Spot 6",
+            "slug": "sixth_spot",
+            "position": 6,
+            "tags": [
+                "museum",
+                "De Krommerdt"
+            ],
+            "short_description": "Pri id elit latine corpora, duo noster oblique splendide ea, mel ne dolorem nusquam.",
+            "write_up": "Utinam omittam quaestio no mea. Dicant petentium quo ea, ad quo solum assum. Noster utamur quo eu. Ut reque fugit mnesarchum pro, brute consequuntur at duo, vis et epicurei similique. In adipisci democritum sed, ea nisl quot labores usu.",
+            "website_url": "https://rosielee.co.uk",
+            "map_longitude": "50.969522",
+            "map_latitude": "2.456735",
+            "socials": [
+                {
+                    "instagram": "https://www.instagram.com/rosie.lees/",
+                    "facebook": "https://www.facebook.com/RosieLeeCreative",
+                    "twitter": "https://twitter.com/Rosie_Lees"
+                }
+            ]
+        },
+        {
+            "name": "Spot 7",
+            "slug": "seventh_spot",
+            "position": 7,
+            "tags": [
+                "cafe",
+                "De Krommerdt"
+            ],
+            "short_description": "Pri id elit latine corpora, duo noster oblique splendide ea, mel ne dolorem nusquam.",
+            "write_up": "Utinam omittam quaestio no mea. Dicant petentium quo ea, ad quo solum assum. Noster utamur quo eu. Ut reque fugit mnesarchum pro, brute consequuntur at duo, vis et epicurei similique. In adipisci democritum sed, ea nisl quot labores usu.",
+            "website_url": "https://rosielee.co.uk",
+            "map_longitude": "50.969522",
+            "map_latitude": "2.456735",
+            "socials": [
+                {
+                    "instagram": "https://www.instagram.com/rosie.lees/",
+                    "facebook": "https://www.facebook.com/RosieLeeCreative",
+                    "twitter": "https://twitter.com/Rosie_Lees"
+                }
+            ]
+        }
+    ]
+}
