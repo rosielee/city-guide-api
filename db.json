@@ -1,7 +1,7 @@
 {
     "persons": [
         {
-            "id": 1,
+            "id": 101,
             "name": "Frank",
             "name_plural": "Frank's",
             "slug": "frank",
@@ -11,12 +11,11 @@
             "bio": "Ut cum rebum deleniti singulis. Inermis verterem omittantur te vis. Tacimates gloriatur in vim. Erat labores omittantur te vim, cu paulo torquatos pri.",
             "instagram_username": "puravida.nl",
             "spots": [
-                "first_spot",
-                "second_spot"
+                "201","202"
             ]
         },
         {
-            "id": 2,
+            "id": 102,
             "name": "Dave",
             "name_plural": "Dave's",
             "slug": "dave",
@@ -26,11 +25,11 @@
             "bio": "Ut cum rebum deleniti singulis. Inermis verterem omittantur te vis. Tacimates gloriatur in vim. Erat labores omittantur te vim, cu paulo torquatos pri.",
             "instagram_username": "puravida.nl",
             "spots": [
-                "third_spot, forth_spot, fifth_spot"
+                "203", "204", "205"
             ]
         },
         {
-            "id": 3,
+            "id": 103,
             "name": "Alberto",
             "name_plural": "Alberto's",
             "slug": "alberto",
@@ -40,12 +39,13 @@
             "bio": "Ut cum rebum deleniti singulis. Inermis verterem omittantur te vis. Tacimates gloriatur in vim. Erat labores omittantur te vim, cu paulo torquatos pri.",
             "instagram_username": "puravida.nl",
             "spots": [
-                "sixth_spot, seventh_spot"
+                "206", "207"
             ]
         }
     ],
     "spots": [
         {
+            "id": "201",
             "name": "First Spot",
             "slug": "first_spot",
             "position": 1,
@@ -68,6 +68,7 @@
             ]
         },
         {
+            "id": "202",
             "name": "Spot 2",
             "slug": "second_spot",
             "position": 2,
@@ -90,6 +91,7 @@
             ]
         },
         {
+            "id": "203",
             "name": "Spot 3",
             "slug": "third_spot",
             "position": 3,
@@ -111,6 +113,7 @@
             ]
         },
         {
+            "id": "204",
             "name": "Spot 4",
             "slug": "forth_spot",
             "position": 4,
@@ -132,6 +135,7 @@
             ]
         },
         {
+            "id": "205",
             "name": "Spot 5",
             "slug": "fifth_spot",
             "position": 5,
@@ -153,6 +157,7 @@
             ]
         },
         {
+            "id": "206",
             "name": "Spot 6",
             "slug": "sixth_spot",
             "position": 6,
@@ -174,6 +179,7 @@
             ]
         },
         {
+            "id": "207",
             "name": "Spot 7",
             "slug": "seventh_spot",
             "position": 7,
