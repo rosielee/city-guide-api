@@ -1,6 +1,7 @@
 {
     "persons": [
         {
+            "id": 1,
             "name": "Frank",
             "name_plural": "Frank's",
             "slug": "frank",
@@ -15,6 +16,7 @@
             ]
         },
         {
+            "id": 2,
             "name": "Dave",
             "name_plural": "Dave's",
             "slug": "dave",
@@ -28,6 +30,7 @@
             ]
         },
         {
+            "id": 3,
             "name": "Alberto",
             "name_plural": "Alberto's",
             "slug": "alberto",
